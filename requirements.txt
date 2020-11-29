@@ -1,0 +1,3 @@
+git+https://github.com/nficano/pytube
+Pillow
+moviepy
