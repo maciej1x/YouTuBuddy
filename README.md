@@ -9,7 +9,7 @@ Download video and/or audio from YouTube url. Media are downloaded in best possi
 ![example](_images/window.png)
 ## Installation
 ### Linux:
-0. Before
+0. Before<br>
 Make sure you have python3 and GIT installed.
 1. Clone repository
 ```bash
@@ -51,4 +51,4 @@ python3 -m venv venv/
 venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
-4. Run YouTuBuddy_Windows.bat
+4. Run **YouTuBuddy_Windows.bat**
