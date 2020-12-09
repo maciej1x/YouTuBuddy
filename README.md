@@ -14,6 +14,7 @@ Make sure you have python3 and GIT installed.
 1. Clone repository
 ```bash
 git clone https://github.com/ulaszewskim/YouTuBuddy.git
+```
 2. Create environment
 ```bash
 cd YouTuBuddy
@@ -34,7 +35,7 @@ sudo apt-get install python3-tk
 python3 buddy_gui.py
 ```
 ### Windows:
-0. Before
+0. Before<br>
 Make sure you have python3 and GIT installed.
 1. Clone repository
 ```bash
